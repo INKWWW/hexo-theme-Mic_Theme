@@ -10,9 +10,9 @@ head:
     keywords: miccall
 
 Intro:
-    name: MICCALL
+    name: WHM
     slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    HeadButton: WHM
 
 Nav:
     Home_name: 主页
